@@ -74,7 +74,7 @@ function App() {
         <div className="group-info">
           <div className="info-row">
             <span className="info-label">Nhóm</span>
-            <span className="info-value">Nhóm Lẻ - Bài tập Frontend</span>
+            <span className="info-value">Nhóm 11 - Bài tập Frontend</span>
           </div>
           <div className="info-row">
             <span className="info-label">Thành viên</span>
@@ -82,7 +82,7 @@ function App() {
           </div>
           <div className="info-row">
             <span className="info-label">Lớp</span>
-            <span className="info-value">[Điền tên lớp của bạn]</span>
+            <span className="info-value"></span>
           </div>
         </div>
       </header>
